@@ -7,9 +7,9 @@ const htmlclean = require('gulp-htmlclean');
 const webphtml = require('gulp-webp-html');
 //SASS
 const sass = require('gulp-sass')(require('sass'));
-const autoprefixer = require('gulp-autoprefixer');
+// const autoprefixer = require('gulp-autoprefixer');
 const csso = require('gulp-csso');
-const webpcss = require ('gulp-webp-css');
+// const webpcss = require ('gulp-webp-css');
 
 //images
 const imagemin = require('gulp-imagemin');
@@ -57,8 +57,8 @@ gulp.task('sass:docs', function () {
         .pipe(plumber(plumberNotify))
         .pipe(groupMedia())
         .pipe(map.init())
-        .pipe(autoprefixer())
-        .pipe(webpcss())
+        // .pipe(autoprefixer())
+        // .pipe(webpcss())
         .pipe(sass())
         .pipe(csso())
         .pipe(map.write())
