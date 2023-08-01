@@ -1,10 +1,12 @@
-# The gulp set
+# GULP SET <img align="left" alt="Gulp" height="35px" src="https://raw.githubusercontent.com/gulpjs/artwork/master/gulp.png"/>
 
 
-## Prerequisites 
 
-This project requires NodeJS and NPM.
+## Prerequisites
+
+<p>This project requires NodeJS and NPM.
 To see your version of npm and node you have to write command:
+</p>
 
 ```
 npm -v && node -v
@@ -48,5 +50,11 @@ gulp docs
 ```
 gulp dev
 ```
+## Components 
+<img align="left" alt="Gulp" height="35px" src="https://raw.githubusercontent.com/gulpjs/artwork/master/gulp.png"/>
+<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5"/>
+<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3"/>
+<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass"/>
                     
                     
