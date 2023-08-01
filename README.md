@@ -8,6 +8,8 @@
 <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3">
 <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass">
 
+## Prerequisites 
+
 This project requires NodeJS and NPM.
 To see your version of npm and node you have to write command:
 
